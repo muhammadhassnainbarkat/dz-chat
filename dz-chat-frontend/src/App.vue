@@ -1,13 +1,13 @@
 <script setup lang="ts">
+import Authentication from '@/module/auth/components/Authentication.vue'
 </script>
 
 <template>
-  <header>
-
-  </header>
+  <header></header>
 
   <main>
-    <h1> Hello World!!</h1>
+    <Authentication />
+    <h1>Hello World!!</h1>
   </main>
 </template>
 
