@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/dz-chat.iml" filepath="$PROJECT_DIR$/dz-chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dz-chat-backend.iml" filepath="$PROJECT_DIR$/dz-chat-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dz-chat-frontend.iml" filepath="$PROJECT_DIR$/dz-chat-frontend.iml" />
     </modules>
   </component>
 </project>
